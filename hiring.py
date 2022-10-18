@@ -33,7 +33,7 @@ def main():
 	menu = ["Home","About"]
 	choice = st.sidebar.selectbox("Menu",menu)
 
-	st.title("DevDeeds -Search Jobs")
+	st.title("Welcome to the Hiring App!!😊")
 
 	if choice == "Home":
 		st.subheader("Home")
